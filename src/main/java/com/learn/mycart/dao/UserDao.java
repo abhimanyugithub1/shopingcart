@@ -10,8 +10,6 @@ public class UserDao {
 	
 	private SessionFactory factory;
 	
-	private String name;
-
 	public UserDao() {
 		super();
 		// TODO Auto-generated constructor stub

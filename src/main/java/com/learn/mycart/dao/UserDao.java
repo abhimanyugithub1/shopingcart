@@ -9,6 +9,8 @@ import com.learn.mycart.entities.User;
 public class UserDao {
 	
 	private SessionFactory factory;
+	
+	private String name;
 
 	public UserDao() {
 		super();
